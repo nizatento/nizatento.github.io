@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nizatento.github.io/sitemap
+Sitemap: https://nizatento.github.io/app/sitemap
+Sitemap: https://nizatento.github.io/assets/sitemap
+Sitemap: https://nizatento.github.io/css/sitemap
+Sitemap: https://nizatento.github.io/includes/sitemap
+Sitemap: https://nizatento.github.io/item/sitemap
+Sitemap: https://nizatento.github.io/src/sitemap
